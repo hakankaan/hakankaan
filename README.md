@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-- 🔭 I’m currently working on [yuex.com](a crypot exchange)
+- 🔭 I’m currently working on [yuex.com](a crypto exchange)
 
 - 🌱 I’m currently learning **Solidity**
 
