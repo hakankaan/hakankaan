@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [yuex.com](a crypto exchange)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently improving myself at **design patterns**
 
 - 💬 Ask me about **React, Golang, Laravel and Kubernetes**
 
