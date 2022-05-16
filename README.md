@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **React, Golang and Kubernetes**
+- 💬 Ask me about **React, Golang, Laravel and Kubernetes**
 
 - 📫 How to reach me **kaanhakan2005@gmail.com**
 
