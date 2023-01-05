@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-- 🔭 I’m currently working on [yuex.com](a crypto exchange)
+- 🔭 I’m currently working on [ginoa.io](nft barterplace)
 
 - 🌱 I’m currently improving myself at **design patterns**
 
-- 💬 Ask me about **React, Golang, Laravel and Kubernetes**
+- 💬 Ask me about **React, Golang and Microservices Architecture**
 
 - 📫 How to reach me **kaanhakan2005@gmail.com**
 
